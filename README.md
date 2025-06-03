@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Анімований банер -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Banner" width="700" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Oleksandr Azenko</h1>
 <h3 align="center">💻 Web Developer | ⚡ Tech Enthusiast | 🎓 Student</h3>
 
@@ -39,11 +34,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Updated!)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azenko01&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Azenko01&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azenko01&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Azenko01&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -67,12 +62,13 @@
 
 ### ❤️ Let’s Connect!
 
-<p align="center">
-  <a href="mailto:azenko0609@gmail.com">📧 Email</a> &nbsp;|&nbsp; 
-  <a href="https://t.me/OleksandrA0101">Telegram</a> &nbsp;|&nbsp; 
+<p>
+  <a href="mailto:azenko0609@gmail.com">📧 Email</a> |
+  <a href="https://t.me/OleksandrA0101">Telegram</a> |
   <a href="https://www.instagram.com/sa_sha698d/">Instagram</a>
 </p>
 
 ---
 
 > 🧭 “Each line of code brings me closer to building something meaningful. Let’s code something great!”
+
