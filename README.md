@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Azenko</h1>
-<h3 align="center">Web Developer | Tech Enthusiast | Student</h3>
+<h3 align="center">💻 Web Developer | ⚡ Tech Enthusiast | 🎓 Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Azenko01&label=Profile%20views&color=0e75b6&style=flat" alt="Azenko01" />
@@ -9,47 +9,54 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on:  
-  A few **real-world projects** to improve my full-stack development skills.
+- 🔭 Currently building:  
+  Real-world full-stack projects to sharpen and apply my skills.
 
-- 🌱 I’m currently learning:  
-  Advanced JavaScript, PHP, and backend integration.
+- 🌱 Learning:  
+  Advanced **JavaScript**, deeper **PHP**, and backend **integration patterns**.
 
-- 💼 I’m building:  
-  A platform for IT courses, anonymous chat app, and a landing page system.
+- 🧩 Interests:  
+  UI/UX, micro-projects with real utility, chat systems, and e-learning platforms.
 
 - 💬 Ask me about:  
-  Web development, Git, or setting up your first portfolio site!
+  Frontend/backend dev, Git, or how to build your first project from scratch.
 
-- 📫 How to reach me:  
-  `azenko0609@gmail.com`
+- 📫 Reach me at:  
+  **`azenko0609@gmail.com`**
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Updated!)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azenko01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azenko01&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azenko01&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Azenko01&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azenko01&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 🌟 Featured Projects
 
 - 🎨 [Coffee Landing Page](https://github.com/Azenko01/coffee-landing)  
-  A beautiful responsive landing page for a coffee shop.
+  Clean, responsive landing page design with strong visual focus.
+
+- 💬 [LiveRoom Chat App](https://github.com/Azenko01/LiveRoom)  
+  Real-time chat system with rooms, light/dark mode, and user sessions.
 
 - 🔐 [Cipher Machine](https://github.com/Azenko01/cipher-machine)  
-  A basic encryption and decryption tool with vanilla JavaScript.
+  Basic encryption/decryption tool using pure JavaScript.
 
 ---
 
@@ -57,5 +64,11 @@
 
 <p>
   <a href="mailto:azenko0609@gmail.com">📧 Email</a> |
-  <a href="https://t.me/Azenko123">Telegram</a> |
+  <a href="https://t.me/OleksandrA0101">Telegram</a> |
+  <a href="https://www.instagram.com/sa_sha698d/">Instagram</a>
 </p>
+
+---
+
+> 🧭 “Each line of code brings me closer to building something meaningful. Let’s code something great!”
+
