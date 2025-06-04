@@ -1,32 +1,32 @@
-<h1 align="center">Привіт 👋, я Олександр Азенко</h1>
-<h3 align="center">🚀 Full-Stack Розробник | 🧠 Прихильник Технологій | 🎓 Студент</h3>
+<h1 align="center">Hi 👋, I'm Oleksandr Azenko</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Tech Enthusiast | 🎓 Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azenko01&label=Перегляди%20профілю&color=0e75b6&style=flat" alt="Azenko01" />
+  <img src="https://komarev.com/ghpvc/?username=Azenko01&label=Profile%20views&color=0e75b6&style=flat" alt="Azenko01" />
 </p>
 
 ---
 
-### 🧠 Про мене
+### 🧠 About Me
 
-- 🔭 Зараз працюю над:
-  - Реальними full-stack проєктами для вдосконалення навичок.
+- 🔭 Currently working on:  
+  Real-world full-stack projects to sharpen and apply my skills.
 
-- 🌱 Вивчаю:
-  - Розширені можливості **JavaScript**, глибше **PHP**, та шаблони інтеграції бекенду.
+- 🌱 Currently learning:  
+  Advanced **JavaScript**, deeper **PHP**, and backend **integration patterns**.
 
-- 🧩 Інтереси:
-  - UI/UX, мікропроєкти з реальним застосуванням, чат-системи та платформи для електронного навчання.
+- 🧩 Interests:  
+  UI/UX, micro-projects with real utility, chat systems, and e-learning platforms.
 
-- 💬 Питайте мене про:
-  - Frontend/backend розробку, Git або як створити свій перший проєкт з нуля.
+- 💬 Ask me about:  
+  Frontend/backend development, Git, or how to build your first project from scratch.
 
-- 📫 Зв'язатися зі мною:
-  - **`azenko0609@gmail.com`**
+- 📫 Contact me:  
+  **`azenko0609@gmail.com`**
 
 ---
 
-### 🚀 Технології, які я використовую
+### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma,linux,nodejs" />
@@ -34,18 +34,18 @@
 
 ---
 
-### 🎯 Основні проєкти
+### 🌟 Featured Projects
 
-| Проєкт | Опис | Технології |
-|--------|------|------------|
-| [💬 LiveRoom Chat](https://github.com/Azenko01/LiveRoom) | Реальний чат з кімнатами, темною/світлою темою та сесіями користувачів | PHP, JS, MySQL |
-| [⚔️ Arena PvP](https://github.com/Azenko01/Arena-Battle-PvP-Mini-Game-with-WebSocket) | PvP браузерна гра з використанням WebSocket | JS, Node.js, Socket.io |
-| [🎨 Coffee Landing](https://github.com/Azenko01/coffee-landing) | Чиста, адаптивна посадкова сторінка продукту | HTML, CSS, JS |
-| [🔐 Cipher Machine](https://github.com/Azenko01/cipher-machine) | Легкий інструмент для шифрування/дешифрування | Vanilla JS |
+| Project | Description | Tech |
+|--------|-------------|------|
+| [💬 LiveRoom Chat](https://github.com/Azenko01/LiveRoom) | Real-time chat with rooms, light/dark mode, and user sessions | PHP, JS, MySQL |
+| [⚔️ Arena PvP](https://github.com/Azenko01/Arena-Battle-PvP-Mini-Game-with-WebSocket) | PvP browser game using WebSockets | JS, Node.js, Socket.io |
+| [🎨 Coffee Landing](https://github.com/Azenko01/coffee-landing) | Clean and responsive product landing page | HTML, CSS, JS |
+| [🔐 Cipher Machine](https://github.com/Azenko01/cipher-machine) | Simple encryption/decryption tool | Vanilla JS |
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azenko01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📸 Демонстрація проєкту LiveRoom Chat
+### 🎥 Project Demo – LiveRoom Chat
 
 <p align="center">
   <img src="https://github.com/Azenko01/LiveRoom/blob/main/assets/demo.gif?raw=true" alt="LiveRoom Demo" width="600"/>
@@ -66,7 +66,7 @@
 
 ---
 
-### 📬 Зв'яжіться зі мною
+### 📬 Let’s Connect
 
 <p align="center">
   <a href="mailto:azenko0609@gmail.com">📧 Email</a> • 
@@ -76,4 +76,5 @@
 
 ---
 
-> 🧭 “Кожен рядок коду наближає мене до створення чогось значущого. Давайте створимо щось велике разом!”
+> 🧭 “Each line of code brings me closer to building something meaningful. Let’s code something great together!”
+
