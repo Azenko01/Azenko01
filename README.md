@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Azenko</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Tech Enthusiast | 🎓 Student</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Real-time Systems Architect | 🎯 Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Azenko01&label=Profile%20views&color=0e75b6&style=flat" alt="Azenko01" />
@@ -9,43 +9,65 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on:  
-  Real-world full-stack projects to sharpen and apply my skills.
+I'm a passionate full-stack developer with a focus on building real-time, interactive applications. My journey spans from elegant frontend interfaces to robust backend architectures, with a special love for WebSocket implementations and multiplayer systems.
 
-- 🌱 Currently learning:  
-  Advanced **JavaScript**, deeper **PHP**, and backend **integration patterns**.
-
-- 🧩 Interests:  
-  UI/UX, micro-projects with real utility, chat systems, and e-learning platforms.
-
-- 💬 Ask me about:  
-  Frontend/backend development, Git, or how to build your first project from scratch.
-
-- 📫 Contact me:  
+- 🔭 **Currently working on:**  
+  Advanced real-time applications with WebSocket architecture and complex game mechanics
+  
+- 🌱 **Currently mastering:**  
+  Advanced **Node.js/Next.js** ecosystem, **PHP WebSocket servers**, and **database optimization**
+  
+- 🧩 **Passionate about:**  
+  Real-time systems, multiplayer games, chat applications, and seamless user experiences
+  
+- 💬 **Ask me about:**  
+  WebSocket implementations, full-stack architecture, real-time data synchronization, or game development
+  
+- 📫 **Reach me at:**  
   **`azenko0609@gmail.com`**
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma,linux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,php,mysql,html,css,git,github,vscode,figma,linux" />
 </p>
 
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [💬 LiveRoom Chat](https://github.com/Azenko01/LiveRoom) | Real-time chat with rooms, light/dark mode, and user sessions | PHP, JS, MySQL |
-| [⚔️ Arena PvP](https://github.com/Azenko01/Arena-Battle-PvP-Mini-Game-with-WebSocket) | PvP browser game using WebSockets | JS, Node.js, Socket.io |
-| [🎨 Coffee Landing](https://github.com/Azenko01/coffee-landing) | Clean and responsive product landing page | HTML, CSS, JS |
-| [🔐 Cipher Machine](https://github.com/Azenko01/cipher-machine) | Simple encryption/decryption tool | Vanilla JS |
+**Backend Mastery:** PHP • Node.js • MySQL • WebSocket Servers • Real-time Architecture  
+**Frontend Excellence:** JavaScript/TypeScript • Next.js • React • Responsive Design  
+**Tools & Workflow:** Git • Linux • VS Code • Database Design
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Showcase Projects
+
+| Project | Description | Tech Stack | Highlights |
+|---------|-------------|------------|------------|
+| [⚔️ **Arena PvP Battle**](https://github.com/Azenko01/Arena-Battle-PvP-Mini-Game-with-WebSocket) | Real-time multiplayer arena game with advanced combat mechanics | Next.js, TypeScript, PHP WebSocket, MySQL | 3 character classes, grid-based movement, real-time combat, chat system |
+| [💬 **LiveRoom Chat**](https://github.com/Azenko01/LiveRoom) | Full-featured real-time chat with rooms and admin panel | PHP, JavaScript, MySQL, AJAX | User auth, room system, likes, themes, admin controls |
+| [🎨 **Coffee Landing**](https://github.com/Azenko01/coffee-landing) | Modern responsive landing page with elegant design | HTML5, CSS3, JavaScript | Mobile-first, clean UI, interactive elements |
+| [🔐 **Cipher Machine**](https://github.com/Azenko01/cipher-machine) | Encryption/decryption tool with custom algorithms | Vanilla JavaScript | Instant processing, intuitive interface |
+
+---
+
+### 🎯 Core Competencies
+
+**🚀 Real-time Systems**  
+Building WebSocket servers, managing concurrent connections, and creating seamless multiplayer experiences
+
+**⚡ Full-stack Architecture**  
+From database design to frontend UX, crafting complete solutions with clean, maintainable code
+
+**🎮 Interactive Applications**  
+Developing engaging user experiences with complex game mechanics and real-time interactions
+
+**🔧 Problem Solving**  
+Transforming complex requirements into elegant, scalable solutions
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azenko01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
@@ -58,23 +80,23 @@
 
 ---
 
-### 🎥 Project Demo – LiveRoom Chat
+### 🎥 Project Spotlight – Arena PvP in Action
 
 <p align="center">
   <img src="https://github.com/Azenko01/LiveRoom/blob/main/assets/demo.gif?raw=true" alt="LiveRoom Demo" width="600"/>
+  <br><em>Real-time chat system with seamless user experience</em>
 </p>
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let's Build Something Amazing Together
 
 <p align="center">
   <a href="mailto:azenko0609@gmail.com">📧 Email</a> • 
-  <a href="https://t.me/OleksandrA0101">Telegram</a> • 
-  <a href="https://www.instagram.com/sa_sha698d/">Instagram</a>
+  <a href="https://t.me/OleksandrA0101">💬 Telegram</a> • 
+  <a href="https://www.instagram.com/sa_sha698d/">📸 Instagram</a>
 </p>
 
 ---
 
-> 🧭 “Each line of code brings me closer to building something meaningful. Let’s code something great together!”
-
+> 💡 "Every complex system starts with a simple idea. I transform ideas into interactive realities that connect people and solve real problems."
