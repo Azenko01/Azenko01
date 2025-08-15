@@ -1,6 +1,6 @@
 # Hi 👋, I'm Oleksandr Azenko
 
-<h3 align="center">🚀 Full-Stack Developer | 💻 Real-time Applications Specialist | 🎯 Creative Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🤖 AI & Python Enthusiast | 💻 Real-time Systems Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Azenko01&label=Profile%20views&color=0e75b6&style=flat" alt="Azenko01" />
@@ -10,19 +10,19 @@
 
 ## 🧠 About Me
 
-Passionate full-stack developer specializing in interactive web applications and real-time systems. I enjoy building projects that solve real-world problems while focusing on clean code, user experience, and scalable architecture.
+I'm a passionate developer with expertise in full-stack web development, AI integration, and real-time systems. My focus is on creating robust, scalable solutions that combine technical excellence with outstanding user experience.
 
 - 🔭 **Currently working on:**  
-  Full-stack e-commerce platforms, real-time chat systems, and multiplayer web games
+  AI-powered applications, Python automation tools, and real-time communication systems
 
 - 🌱 **Currently learning:**  
-  Advanced **TypeScript**, **Node.js** ecosystem, **database optimization**, and modern **PHP** patterns
+  **Python frameworks**, **AI/ML integration**, **cloud architecture**, and **performance optimization**
 
 - 🧩 **Interests:**  
-  WebSocket implementation, interactive gaming, e-commerce solutions, and responsive UI/UX design
+  WebSocket applications, AI assistants, data processing, and interactive systems
 
 - 💬 **Ask me about:**  
-  Frontend/backend development, real-time applications, or building your first full-stack project
+  Full-stack development, Python automation, or implementing AI features
 
 - 📫 **Contact me:**  
   **azenko0609@gmail.com**
@@ -32,62 +32,76 @@ Passionate full-stack developer specializing in interactive web applications and
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,nodejs,mysql,git,github,vscode,figma,ai,linux" />
 </p>
 
-**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • Responsive Design  
-**Backend:** PHP • Node.js • MySQL • WebSocket  
-**Tools:** Git • VS Code • Linux • Database Design
+**Frontend:**  
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • Responsive Design
+
+**Backend:**  
+Python • PHP • Node.js • WebSocket • REST APIs
+
+**Databases:**  
+MySQL • Database Design • Query Optimization
+
+**Tools & Platforms:**  
+Git • GitHub • VS Code • Linux • Figma • Jupyter
+
+**Emerging Skills:**  
+AI Integration • Data Analysis • Automation
 
 ---
 
 ## 🌟 Featured Projects
 
+### 🤖 [JARVIS MVP](https://github.com/Azenko01/JARVIS-MVP-)
+**AI-powered assistant prototype**
+- **Tech:** Python, JavaScript, Web APIs
+- **Features:** Voice interaction, task automation
+- **Highlight:** Combines Python backend with web interface
+
+### 🐍 [Python Projects](https://github.com/Azenko01?tab=repositories)
+**Various Python utilities and tools**
+- **Tech:** Python 3, various libraries
+- **Features:** Automation scripts, data processing
+- **Highlight:** Demonstrates Python proficiency
+
 ### 🎮 [Arena Battle PvP](https://github.com/Azenko01/Arena-Battle-PvP-Mini-Game-with-WebSocket)
-**Real-time multiplayer arena game**
+**Real-time multiplayer game**
 - **Tech:** TypeScript, PHP WebSocket, MySQL
-- **Features:** Grid-based movement, combat system, real-time synchronization
-- **Complexity:** Advanced WebSocket implementation with game state management
+- **Features:** Real-time synchronization, game logic
+- **Complexity:** Advanced WebSocket implementation
 
-### 🏗️ [Construction E-commerce](https://github.com/Azenko01/construction-ecommerce) 
-**Full-featured e-commerce platform for construction materials**
-- **Tech:** Modern web stack with database integration
-- **Features:** Product catalog, shopping cart, user management
-- **Focus:** Business logic implementation and user experience
+### 🛒 [Construction E-commerce](https://github.com/Azenko01/construction-ecommerce)
+**Full e-commerce solution**
+- **Tech:** Full web stack
+- **Features:** Product management, cart system
+- **Focus:** Complete business logic implementation
 
-### 💬 [ChatSite](https://github.com/Azenko01/chatsite)
-**Real-time chat application**
-- **Tech:** TypeScript, WebSocket technology
-- **Features:** Live messaging, user authentication, responsive design
-- **Highlight:** Seamless real-time communication
-
-### 🍕 [Pizza Landing](https://github.com/Azenko01/Pizza-landing)
-**Modern pizzeria showcase website**
-- **Tech:** HTML5, CSS3, JavaScript
-- **Features:** Responsive design, interactive elements, mobile-first approach
-- **Focus:** Frontend skills demonstration and UI/UX design
-
-### 🔐 [Cipher Machine](https://github.com/Azenko01/cipher-machine)
-**Text encryption/decryption tool**
-- **Tech:** Vanilla JavaScript
-- **Features:** Custom encryption algorithms, instant processing
-- **Highlight:** Clean code implementation and user-friendly interface
+### 📊 [Dashboard UI](https://github.com/Azenko01/dashboard-ui)
+**Admin dashboard interface**
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Clean, responsive design
+- **Highlight:** Professional UI implementation
 
 ---
 
 ## 🎯 Key Strengths
 
-**💡 Full-Stack Development**  
-Building complete web solutions from database design to user interface
+**🐍 Python Development**  
+Building scripts, automation tools, and backend services with Python
+
+**🤖 AI Integration**  
+Implementing intelligent features and machine learning elements
+
+**🌐 Full-Stack Expertise**  
+End-to-end development from database to UI
 
 **⚡ Real-time Systems**  
-Implementing WebSocket connections and managing live data synchronization  
+WebSocket applications and live data processing
 
-**🎨 UI/UX Focus**  
-Creating responsive, mobile-first designs with attention to user experience
-
-**🧩 Problem Solving**  
-Breaking down complex requirements into manageable, scalable solutions
+**🔧 Problem Solving**  
+Analyzing and solving complex technical challenges
 
 ---
 
@@ -104,13 +118,13 @@ Breaking down complex requirements into manageable, scalable solutions
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus Areas
 
-Working on expanding my expertise in:
-- Modern JavaScript frameworks and libraries
-- Advanced database optimization techniques  
-- Scalable backend architecture patterns
-- Cloud deployment and DevOps practices
+- Expanding Python expertise with Flask/Django
+- AI/ML integration in web applications
+- Cloud-native development patterns
+- Performance optimization techniques
+- Advanced TypeScript patterns
 
 ---
 
@@ -125,5 +139,5 @@ Working on expanding my expertise in:
 ---
 
 <p align="center">
-  <em>"Building digital solutions that make a difference, one project at a time."</em>
+  <em>"Building intelligent systems that solve real problems through code."</em>
 </p>
