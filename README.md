@@ -26,11 +26,11 @@ I'm a passionate developer focused on building robust, scalable solutions that c
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,nodejs,html,css,mysql,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,php,nodejs,html,css,mysql,git,github,vscode,figma,linux,jupyter" />
 </p>
 
 **Languages:**
-Java • Python • TypeScript • JavaScript (ES6+) • PHP
+Java • Python • C++ • TypeScript • JavaScript (ES6+) • PHP
 
 **Frontend:**
 HTML5 • CSS3 • Responsive Design • Next.js • Tailwind CSS
@@ -45,7 +45,7 @@ JavaFX • Scene Builder • FXML
 MySQL • SQLite • Database Design
 
 **Tools & Platforms:**
-Git • GitHub • VS Code • Linux • Figma • Jupyter
+Git • GitHub • VS Code • Linux • Figma • Jupyter Notebook
 
 **Emerging Skills:**
 AI Integration • Data Analysis • Automation • Spring Boot
@@ -133,7 +133,7 @@ AI Integration • Data Analysis • Automation • Spring Boot
 <p align="center">
   <a href="mailto:azenko0609@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/oleksandr-azenko-763677342">💼 LinkedIn</a> •
-  <a href="https://https://t.me/Azenko123">💬 Telegram</a> •
+  <a href="https://t.me/OleksandrA0101">💬 Telegram</a> •
   <a href="https://www.instagram.com/sa_sha698d/">📸 Instagram</a>
 </p>
 
