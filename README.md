@@ -133,7 +133,7 @@ AI Integration • Data Analysis • Automation • Spring Boot
 <p align="center">
   <a href="mailto:azenko0609@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/oleksandr-azenko-763677342">💼 LinkedIn</a> •
-  <a href="https://t.me/OleksandrA0101">💬 Telegram</a> •
+  <a href="https://https://t.me/Azenko123">💬 Telegram</a> •
   <a href="https://www.instagram.com/sa_sha698d/">📸 Instagram</a>
 </p>
 
